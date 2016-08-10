@@ -1,0 +1,17 @@
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\controller\AppController.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\configuration\AppConfig.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\dao\UserProfileDao.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\model\UserProfile.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\configuration\HibernateConfiguration.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\dao\UserProfileDaoImpl.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\configuration\AppInitializer.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\service\UserProfileService.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\service\UserService.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\dao\AbstractDao.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\dao\UserDaoImpl.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\model\User.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\model\UserProfileType.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\converter\RoleToUserProfileConverter.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\dao\UserDao.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\service\UserProfileServiceImpl.java
+C:\Users\048ChubakovaEL\IdeaProjects\portal\src\main\java\ru\pfr048\portal\service\UserServiceImpl.java

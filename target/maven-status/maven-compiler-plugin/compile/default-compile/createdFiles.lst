@@ -1,0 +1,17 @@
+ru\pfr048\portal\dao\AbstractDao.class
+ru\pfr048\portal\service\UserServiceImpl.class
+ru\pfr048\portal\dao\UserProfileDao.class
+ru\pfr048\portal\service\UserProfileServiceImpl.class
+ru\pfr048\portal\service\UserService.class
+ru\pfr048\portal\configuration\AppInitializer.class
+ru\pfr048\portal\configuration\HibernateConfiguration.class
+ru\pfr048\portal\dao\UserDaoImpl.class
+ru\pfr048\portal\model\UserProfileType.class
+ru\pfr048\portal\service\UserProfileService.class
+ru\pfr048\portal\converter\RoleToUserProfileConverter.class
+ru\pfr048\portal\dao\UserDao.class
+ru\pfr048\portal\model\UserProfile.class
+ru\pfr048\portal\configuration\AppConfig.class
+ru\pfr048\portal\controller\AppController.class
+ru\pfr048\portal\dao\UserProfileDaoImpl.class
+ru\pfr048\portal\model\User.class
